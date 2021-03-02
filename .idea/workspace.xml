@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b53b5a3-b3ca-4304-b97f-b4b91bdd0dae" name="Default Changelist" comment="" />
+    <list default="true" id="3b53b5a3-b3ca-4304-b97f-b4b91bdd0dae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelo.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pAO4mQtRJAZYHh4MbZYU7AZuGI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,21 +72,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="198" key="GridCell.Tab.0.bottom" timestamp="1614640468135">
+    <state width="1899" height="149" key="GridCell.Tab.0.bottom" timestamp="1614681862018">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="198" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1614640468135" />
-    <state width="1899" height="198" key="GridCell.Tab.0.center" timestamp="1614640468135">
+    <state width="1899" height="149" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1614681862018" />
+    <state width="1899" height="149" key="GridCell.Tab.0.center" timestamp="1614681862018">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="198" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1614640468135" />
-    <state width="1899" height="198" key="GridCell.Tab.0.left" timestamp="1614640468135">
+    <state width="1899" height="149" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1614681862018" />
+    <state width="1899" height="149" key="GridCell.Tab.0.left" timestamp="1614681862018">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="198" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1614640468135" />
-    <state width="1899" height="198" key="GridCell.Tab.0.right" timestamp="1614640468135">
+    <state width="1899" height="149" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1614681862018" />
+    <state width="1899" height="149" key="GridCell.Tab.0.right" timestamp="1614681862018">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="198" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1614640468135" />
+    <state width="1899" height="149" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1614681862018" />
   </component>
 </project>

@@ -32,11 +32,11 @@ class Filme(Programa):
         return f' Nome: {self._nome} - Ano: {self.ano} - {self.duracao} min - {self._likes} Likes'
 
 class Serie(Programa):
-        def __init__(self, nome, ano, temporadas):
+    def __init__(self, nome, ano, temporadas):
             super().__init__(nome, ano)
             self.temporadas = temporadas
 
-        def __str__(self):
+    def __str__(self):
            return f' Nome: {self._nome} - Ano: {self.ano} - {self.temporadas} temporadas - {self._likes} Likes'
 
 class Playlist:
